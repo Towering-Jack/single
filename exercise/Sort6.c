@@ -74,4 +74,5 @@ int main()
     printf("%d", SwapSort());
 
     return 0;
+    printf("\n");
 }
