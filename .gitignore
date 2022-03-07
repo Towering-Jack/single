@@ -1,3 +1,4 @@
+# 只上传buildWheel中的代码
 *.exe
 .vscode
 basic
